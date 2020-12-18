@@ -58,7 +58,7 @@ let App = () => {
   return (
     <div>
       <div className='jumbotron text-center'>
-        <h1>Koch Media User Table</h1>
+        <h1>User Table</h1>
       </div>
       <InputForm
         getAllUsers={getAllUsers}
